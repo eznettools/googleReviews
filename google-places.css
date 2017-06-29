@@ -31,12 +31,13 @@ flex: 1 1 20%;
 
 .review-stars ul {
 display: inline-block;
-list-style: none;
+list-style: none !important;
 margin:0; padding:0;
 }
 
 .review-stars ul li {
 float: left;
+list-style: none !important;
 margin-right: 1px;
 line-height:1;
 }
