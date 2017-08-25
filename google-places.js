@@ -10,10 +10,10 @@
             , max_rows: 0
             , rotateTime: false
         };
-
+        
         var plugin = this;
 
-        plugin.settings = {}
+        plugin.settings = {};
 
         var $element = $(element),
              element = element;
